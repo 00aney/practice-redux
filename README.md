@@ -30,5 +30,7 @@ npm install --save redux react-redux
 ```
 
 
+warning 지우기
+
 ###ref
 https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
